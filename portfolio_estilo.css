@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-style: italic;
+
+    border-color:  black;
+    border-style: solid;
+    background-color: green;
+    border-radius: 10px;
+
+}
+div{
+    font-size: 20spx;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    }
+table{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;  
+    text-align: center; 
+    text-align: center;
+    
+    
+}
+tr{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+td{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    text-align: center;
+}
